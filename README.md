@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Cybersecurity**
 - 👨‍💻 All of my projects are available at [https://github.com/ruby-rae-olaya22/ruby_profile](https://github.com/ruby-rae-olaya22/ruby_profile)
 - 📫 How to reach me **ruby.rae.olaya@gmail.com**
-- 📄 Know about my [experiences]([https://github.com/ruby-rae-olaya22/ruby_profile/blob/main/Resume-Ruby%20Rae%20Olaya.pdf](https://drive.google.com/file/d/17P-yzf31ERA6OxV1TEioUasaTFn-h_m3/view?usp=drive_link))
+- 📄 Know about my [experiences](https://drive.google.com/file/d/17P-yzf31ERA6OxV1TEioUasaTFn-h_m3/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
